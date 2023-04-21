@@ -1,5 +1,5 @@
 # xkcdpassgui2
 
-Another GUI frontend for the xkcd password generator.
+Another GUI for the XKCD password generator.
 
-Build with `pyinstall xkcd.spec`
+Build with `pyinstaller xkcd.spec`
